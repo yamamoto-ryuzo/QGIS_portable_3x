@@ -97,11 +97,11 @@ Per quanto riguarda i **plugin**: è possibile installarli, ma verrà creata una
 - Blog post su [Pigrecoinfinito](https://pigrecoinfinito.wordpress.com/2019/02/26/creare-una-versione-portable-di-qgis-2-18-ltr/)
 
 ### QGIS LTR
-　https://github.com/pigreco/QGIS_portable_3x　が更新されない時、補完的に追加します。
+
+　https://github.com/pigreco/QGIS_portable_3x が更新されない時、補完的に追加します。  
+
+ [OSGeo4W64_3.28.9](https://drive.google.com/file/d/1wqYdv8Ynb-G9fN9fjP6WxIB7o66gwbfH/view?usp=sharing)
  
-- ⭐⭐[QGIS 3.28.6-1 Firenze Portable](https://drive.google.com/file/d/10ZHR18Knf4fiHKN3L3qWSRO54f7FQi38/view?usp=sharing) (da unzippare in una pen drive (o dove preferite) `F:\OSGeo4W64-3.28.0-2`, doppio clic su `qgis-grass.bat`)(è una prima versione da testare, ogni suggerimento o segnalazione sono benvenute)
-
-
 **NB:**
 - ⭐⭐⭐: EOL, ultimo rialscio
 - ⭐⭐: occorre [rinominare](https://www.facebook.com/pigreco314/posts/pfbid02FAXfkezQXAU65SNzoX2Jq1nrn2jMeCz7w5jDktXbxG8in1ScJhCjL9x4aZsQ3yjml) il file `api-ms-win-core-path-l1-1-0.dll.w7` in `api-ms-win-core-path-l1-1-0.dll` (si trova nella cartella bin) per poterlo utilizzare in macchine che montano windows 7 64 b
