@@ -40,6 +40,7 @@ Un’applicazione portabile può indistintamente essere eseguita su qualsiasi co
  
 ![image](https://github.com/yamamoto-ryuzo/QGIS_portable_3x/assets/86514652/93223237-dcc3-4c2a-a47b-f79a47089194)  
  10. `C:\OSGeo4W64\qgis\bin\qgis-ltr.bat` を起動   
+  もしくは、新規コンフィグを作成したい場合は `C:\OSGeo4W64\qgis-ltr-grass.bat` を起動  
 
 ![image](https://github.com/yamamoto-ryuzo/QGIS_portable_3x/assets/86514652/29fd640f-b0ad-4f53-8c6d-684b0dda9f65)  
 
