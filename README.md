@@ -5,14 +5,17 @@
 
  [OSGeo4W64_3.28.9](https://drive.google.com/file/d/1wqYdv8Ynb-G9fN9fjP6WxIB7o66gwbfH/view?usp=sharing)
 
-## Perché questo repository
+## このリポジトリについて
 
-Per tenere traccia di come realizzare una **versione Portable di QGIS 3.x** senza necessariamente aver installato il software.
+ QGIS 3.xをインストールすることなく、動作することのできるポータブル版を作成する方法を説明します。  
 
-## Che cosa è una versione Portable
+## ポータブル版とは何か
 
-Per applicazione portabile (o applicazione portatile; in inglese portable application) si intende un software applicativo che non necessita di installazione all’interno del sistema operativo su cui viene eseguito. Programmi di questo genere possono essere memorizzati su supporto rimovibile come cd-rom o memorie flash. 
-Un’applicazione portabile può indistintamente essere eseguita su qualsiasi computer in cui si dispone di un sistema operativo compatibile con l’applicazione stessa. Il vantaggio per l’utente è quindi quello di poter utilizzare la medesima applicazione su macchine diverse mantenendo le impostazioni personalizzate nell’uso dell’applicazione. Un secondo vantaggio delle applicazioni portabili deriva dal fatto che non richiedendo installazione possono spesso essere eseguite anche in ambienti in cui non si dispone dei diritti di amministrazione sul sistema operativo. [Wikipedia](https://it.wikipedia.org/wiki/Applicazione_portabile).
+ポータブル・アプリケーション（またはポータブル・アプリケーション）とは、実行するオペレーティング・システム内にインストールする必要のないアプリケーション・ソフトウェアを指す。  
+この種のプログラムは、CD-ROMやフラッシュメモリなどのリムーバブルメディアに保存することができます。  
+ポータブル・アプリケーションは、そのアプリケーションと互換性のあるオペレーティング・システムを搭載していれば、どのコンピューターでも無差別に実行することができます。  
+ユーザーにとっての利点は、アプリケーションの使用時にカスタマイズされた設定を維持しながら、異なるマシン上で同じアプリケーションを使用できることです。  
+ポータブルアプリケーションの第二の利点は、インストールを必要としないため、オペレーティングシステムの管理者権限を持っていない環境でも実行できます。 [Wikipedia](https://it.wikipedia.org/wiki/Applicazione_portabile).
 
 ## 作業手順
 
@@ -45,22 +48,22 @@ Un’applicazione portabile può indistintamente essere eseguita su qualsiasi co
 ![image](https://github.com/yamamoto-ryuzo/QGIS_portable_3x/assets/86514652/29fd640f-b0ad-4f53-8c6d-684b0dda9f65)  
 
 ---
-## Connessione al Web e i Plugin
+## ウェブ接続とプラグイン
 
-Ho fatto dei test, la **portable** si connette alla rete senza problemi.
+**ポータブル** は何の問題もなくWEBに接続できます。
 
-Per quanto riguarda i **plugin**: è possibile installarli, ma verrà creata una cartella **QGIS** nel percorso relativo al profilo utente `C:\Users\nomeUtente\AppData\Roaming\QGIS\QGIS3\profiles\default`
+**プラグインについて：** インストールは可能ですが、ユーザープロファイルのパスに **QGIS** フォルダが作成されます。 `C:\Users\nomeUtente\AppData\Roaming\QGIS\QGIS3\profiles\default`
 
 ---
 
-**Riferimenti:**
+**参考資料**
 
-- Idea presa da [qui](https://www.youtube.com/watch?v=iWbB0WPn6rM)
-- Blog post su [Pigrecoinfinito](https://pigrecoinfinito.wordpress.com/2019/02/26/creare-una-versione-portable-di-qgis-2-18-ltr/)
+- アイデア提供 [qui](https://www.youtube.com/watch?v=iWbB0WPn6rM)
+- ブログ記事 [Pigrecoinfinito](https://pigrecoinfinito.wordpress.com/2019/02/26/creare-una-versione-portable-di-qgis-2-18-ltr/)
 
-**DISCLAIMER**
+**免責事項**
 
-Questa guida è stata realizzata e testata nel mio laptop e funziona bene, si connette al web. Non mi assumo nessuna responsabilità su eventuali incidenti di percorso!!!
+このガイドは私のパソコンで作成され、テストされたものです。どんな災難にも責任は負いません！
 
 <p align="center"> <a href="https://giphy.com/explore/free-gif" target="_blank"><img src="./imgs/giphy.gif" width="500" title="avvio QGIS"></a>
 </p>
