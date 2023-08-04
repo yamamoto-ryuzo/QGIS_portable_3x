@@ -63,9 +63,9 @@ Un’applicazione portabile può indistintamente essere eseguita su qualsiasi co
 
 ![image](https://github.com/yamamoto-ryuzo/QGIS_portable_3x/assets/86514652/5eb8abd2-1e84-4277-8cdf-f691b905c4bd)
 
-11. ファイルを移動した影響で　C:\OSGeo4W\binqgis-ltr-bin.env　ファイルの　\QGIS32~1.9　を削除
+11. ファイルを移動した影響で　C:\OSGeo4W\binqgis-ltr-bin.env　ファイルを削除
 
-![image](https://github.com/yamamoto-ryuzo/QGIS_portable_3x/assets/86514652/0fe4b328-b4a5-4bbc-aad9-097c99e088c6)
+![image](https://github.com/yamamoto-ryuzo/QGIS_portable_3x/assets/86514652/2e24d899-5c9b-4666-9b88-24ee87d5cc23)
 
 12. `C:\OSGeo4W\bin\qgis-ltr.bat` を起動
 
