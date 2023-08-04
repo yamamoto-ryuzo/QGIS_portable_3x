@@ -1,29 +1,9 @@
 # このサイトは　https://github.com/pigreco/QGIS_portable_3x の日本語翻訳及び補完を兼ねています。
-# 翻訳及び動作確認中
+### QGIS LTR
 
-NOTA: A partire da QGIS 3.24 Tisler, gli eseguibili sono solo in formato `*.msi` e pesano circa 3 volte le vecchie `*.exe` perché contengono molti dati in più.
-NOTA2: Il Plugin core **Geometry Checker** ha due [bug segnalati](https://lists.osgeo.org/pipermail/qgis-it-user/2023-April/010258.html) e risolti a partire da QGIS 3.28.6 e  QGIS 3.30.2
+　https://github.com/pigreco/QGIS_portable_3x が更新されない時、補完的に追加します。  
 
-<!-- TOC -->
-
-- [QGIS portable 3.x](#qgis-portable-3x)
-  - [Perché questo repository](#perché-questo-repository)
-  - [Che cosa è una versione Portable](#che-cosa-è-una-versione-portable)
-  - [Step by step metodo manuale](#step-by-step-metodo-manuale)
-  - [Step by step usando script Bash](#step-by-step-usando-script-bash)
-  - [Connessione al Web e i Plugin](#connessione-al-web-e-i-plugin)
-- [Portable (7z)](#portable-7z)
-  - [OSGeo4W64 v2 - Nuovo Repository](#osgeo4w64-v2---nuovo-repository)
-    - [QGIS](#qgis)
-    - [QGIS LTR](#qgis-ltr)
-  - [VECCHIO REPOSITORY OSGeo4W64 v1](#vecchio-repository-osgeo4w64-v1)
-    - [Con GRASS GIS 7.8](#con-grass-gis-78)
-    - [GRASS GIS non abilitato](#grass-gis-non-abilitato)
-
-<!-- /TOC -->
-# QGIS portable 3.x
-
-Creare una versione **Portable di QGIS 3.x** usando il file `*.exe` scaricato dal sito http://download.osgeo.org/qgis/
+ [OSGeo4W64_3.28.9](https://drive.google.com/file/d/1wqYdv8Ynb-G9fN9fjP6WxIB7o66gwbfH/view?usp=sharing)
 
 ## Perché questo repository
 
@@ -95,17 +75,6 @@ Per quanto riguarda i **plugin**: è possibile installarli, ma verrà creata una
 
 - Idea presa da [qui](https://www.youtube.com/watch?v=iWbB0WPn6rM)
 - Blog post su [Pigrecoinfinito](https://pigrecoinfinito.wordpress.com/2019/02/26/creare-una-versione-portable-di-qgis-2-18-ltr/)
-
-### QGIS LTR
-
-　https://github.com/pigreco/QGIS_portable_3x が更新されない時、補完的に追加します。  
-
- [OSGeo4W64_3.28.9](https://drive.google.com/file/d/1wqYdv8Ynb-G9fN9fjP6WxIB7o66gwbfH/view?usp=sharing)
- 
-**NB:**
-- ⭐⭐⭐: EOL, ultimo rialscio
-- ⭐⭐: occorre [rinominare](https://www.facebook.com/pigreco314/posts/pfbid02FAXfkezQXAU65SNzoX2Jq1nrn2jMeCz7w5jDktXbxG8in1ScJhCjL9x4aZsQ3yjml) il file `api-ms-win-core-path-l1-1-0.dll.w7` in `api-ms-win-core-path-l1-1-0.dll` (si trova nella cartella bin) per poterlo utilizzare in macchine che montano windows 7 64 b
-- ⭐: utilizzabile anche in macchine che montano windows 7 64 bit
 
 **DISCLAIMER**
 
