@@ -31,7 +31,7 @@ Un’applicazione portabile può indistintamente essere eseguita su qualsiasi co
    
 ![image](https://github.com/yamamoto-ryuzo/QGIS_portable_3x/assets/86514652/5504b88e-87e8-4760-87fb-0da0fdb7b83d)
 
-6. インストール先を変更　C:\Program Files\QGIS 3.28.9\　から **C:\OSGeo4W\QGIS 3.28.9\\** へ;
+6. インストール先を変更　C:\Program Files\QGIS 3.28.9\　から **C:\OSGeo4W64\qgis\\** へ;
 
 ![image](https://github.com/yamamoto-ryuzo/QGIS_portable_3x/assets/86514652/d25b35cd-eae4-48ff-8a6d-7b2d92b72b3f)
 
@@ -40,15 +40,15 @@ Un’applicazione portabile può indistintamente essere eseguita su qualsiasi co
 ![image](https://github.com/yamamoto-ryuzo/QGIS_portable_3x/assets/86514652/0e89b01d-e7bf-4612-98e5-18742f5a816a)
 ![image](https://github.com/yamamoto-ryuzo/QGIS_portable_3x/assets/86514652/672967ce-38f8-46be-a70c-cff7e9a3a481)
 
-10. `c:\windows\syswow64`にある`msvcp100.dll` `msvcr100.dll` ファイルを `C:\OSGeo4W\apps\qgis-ltr\bin\`　にコピー
+10. `c:\windows\syswow64`にある`msvcp100.dll` `msvcr100.dll` ファイルを `C:\OSGeo4W64\qgis\apps\qgis-ltr\bin\`　にコピー
 
 ![image](https://github.com/yamamoto-ryuzo/QGIS_portable_3x/assets/86514652/5eb8abd2-1e84-4277-8cdf-f691b905c4bd)
 
-11. ファイルを移動した影響で　C:\OSGeo4W\binqgis-ltr-bin.env　ファイルを削除
+11. ファイルを移動した影響で　`C:\OSGeo4W64\qgis\bin\qgis-ltr-bin.env`　ファイルを削除
 
 ![image](https://github.com/yamamoto-ryuzo/QGIS_portable_3x/assets/86514652/2e24d899-5c9b-4666-9b88-24ee87d5cc23)
 
-12. `C:\OSGeo4W\bin\qgis-ltr.bat` を起動
+12. `C:\OSGeo4W64\qgis\bin\qgis-ltr.bat` を起動
 
 ![image](https://github.com/yamamoto-ryuzo/QGIS_portable_3x/assets/86514652/29fd640f-b0ad-4f53-8c6d-684b0dda9f65)
 
