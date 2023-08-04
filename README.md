@@ -23,32 +23,25 @@ Un’applicazione portabile può indistintamente essere eseguita su qualsiasi co
 </p>
  適宜目的の最新バージョンをダウンロード  
 
-![image](https://github.com/yamamoto-ryuzo/QGIS_portable_3x/assets/86514652/7774c212-199e-486f-b60f-a6babe394262)  
- 1. インストール実行  
+ ![image](https://github.com/yamamoto-ryuzo/QGIS_portable_3x/assets/86514652/7774c212-199e-486f-b60f-a6babe394262)  
+ 4. インストール実行
 
-![image](https://github.com/yamamoto-ryuzo/QGIS_portable_3x/assets/86514652/5504b88e-87e8-4760-87fb-0da0fdb7b83d)   
- 1. インストール先を変更　C:\Program Files\QGIS 3.28.9\　から **C:\OSGeo4W64\qgis\\** へ    
+ ![image](https://github.com/yamamoto-ryuzo/QGIS_portable_3x/assets/86514652/5504b88e-87e8-4760-87fb-0da0fdb7b83d)   
+ 5. インストール先を変更　C:\Program Files\QGIS 3.28.9\　から **C:\OSGeo4W64\qgis\\** へ    
 
 ![image](https://github.com/yamamoto-ryuzo/QGIS_portable_3x/assets/86514652/d25b35cd-eae4-48ff-8a6d-7b2d92b72b3f)  
- 1. `c:\windows\syswow64`にある`msvcp100.dll` `msvcr100.dll` ファイルを `C:\OSGeo4W64\qgis\apps\qgis-ltr\bin\`　にコピー  
+ 6. `c:\windows\syswow64`にある`msvcp100.dll` `msvcr100.dll` ファイルを `C:\OSGeo4W64\qgis\apps\qgis-ltr\bin\`　にコピー  
 
 ![image](https://github.com/yamamoto-ryuzo/QGIS_portable_3x/assets/86514652/5eb8abd2-1e84-4277-8cdf-f691b905c4bd)  
- 1. ファイルを移動した影響で　`C:\OSGeo4W64\qgis\bin\qgis-ltr-bin.env`　ファイルを削除  
+ 7. ファイルを移動した影響で　`C:\OSGeo4W64\qgis\bin\qgis-ltr-bin.env`　ファイルを削除
 
 ![image](https://github.com/yamamoto-ryuzo/QGIS_portable_3x/assets/86514652/2e24d899-5c9b-4666-9b88-24ee87d5cc23)  
- 1. `C:\OSGeo4W64\qgis\bin\qgis-ltr.bat` を起動  
+ 9.[qgis-ltr-grass.bat](https://github.com/yamamoto-ryuzo/QGIS_portable_3x/blob/master/qgis-ltr-grass.bat)を　`C:\OSGeo4W64`　へコピー  
+ 
+![image](https://github.com/yamamoto-ryuzo/QGIS_portable_3x/assets/86514652/93223237-dcc3-4c2a-a47b-f79a47089194)  
+ 10. `C:\OSGeo4W64\qgis\bin\qgis-ltr.bat` を起動   
 
 ![image](https://github.com/yamamoto-ryuzo/QGIS_portable_3x/assets/86514652/29fd640f-b0ad-4f53-8c6d-684b0dda9f65)  
-
-## Step by step usando script Bash
-
-1. creare una cartella sul desktop `zanzibar`(oppure dove preferite);
-2. scaricare il file [script.sh](./script.sh) all'interno della cartella `zanzibar` creata al punto 1;
-3. avviare `Bash` e digitare `chmod +x ./script.sh` per i permessi e poi `./script.sh`;
-4. dopo circa **30 minuti** otterrete una cartella zippata `OSGeo4W_349` con la versione portable di QGIS.
-5. unzippate la cartella `OSGeo4W_349.7z` dove desiderate e avvire il file `qgis-ltr.bat` che trovate in `/OSGeo4W/bin`.
-
-**PS:** nello script scarico la `QGIS-OSGeo4W-3.4.9-1-Setup-x86_64.exe` e i file `msvcp100.dll` `msvcr100.dll` versione a 64 bit!!!
 
 ---
 ## Connessione al Web e i Plugin
