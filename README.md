@@ -3,7 +3,7 @@
 
 　https://github.com/pigreco/QGIS_portable_3x が更新されない時、補完的に追加します。  
 
- [OSGeo4W64_3.28.9](https://drive.google.com/file/d/1wqYdv8Ynb-G9fN9fjP6WxIB7o66gwbfH/view?usp=sharing)
+  2023-08-05 [OSGeo4W64_3.28.9-ltr_grass-saga.7z](https://drive.google.com/file/d/1wqYdv8Ynb-G9fN9fjP6WxIB7o66gwbfH/view?usp=sharing)  
 
 ## このリポジトリについて
 
@@ -46,6 +46,8 @@
   もしくは、新規コンフィグを作成したい場合は `C:\OSGeo4W64\qgis-ltr-grass.bat` を起動  
 
 ![image](https://github.com/yamamoto-ryuzo/QGIS_portable_3x/assets/86514652/29fd640f-b0ad-4f53-8c6d-684b0dda9f65)  
+
+ 11.OSGeo4W64_3.28.9-ltr_grass-saga.7z に圧縮、バージョンを適宜変更
 
 ---
 ## ウェブ接続とプラグイン
