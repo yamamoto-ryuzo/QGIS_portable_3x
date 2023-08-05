@@ -3,7 +3,7 @@
 
 　https://github.com/pigreco/QGIS_portable_3x が更新されない時、補完的に追加します。  
 
-  2023-08-05 [OSGeo4W64_3.28.9-ltr_grass-saga.7z](https://drive.google.com/file/d/1wqYdv8Ynb-G9fN9fjP6WxIB7o66gwbfH/view?usp=sharing)  
+  2023-08-05 [OSGeo4W64_3.28.9-ltr_grass-saga.7z](https://drive.google.com/file/d/1wwvgiMAeqiw3pDRCRNT3OlMu_-zWWb7L/view?usp=sharing)  
 
 ## このリポジトリについて
 
