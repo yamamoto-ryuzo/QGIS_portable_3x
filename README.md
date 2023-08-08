@@ -1,9 +1,10 @@
 # このサイトは　https://github.com/pigreco/QGIS_portable_3x の日本語翻訳及び補完を兼ねています。
+# This site serves as a Japanese translation and supplement to https://github.com/pigreco/QGIS_portable_3x.
 ### QGIS LTR
-
+　Complementary addition when https://github.com/pigreco/QGIS_portable_3x is not updated.  
 　https://github.com/pigreco/QGIS_portable_3x が更新されない時、補完的に追加します。  
 
-  2023-08-05 [OSGeo4W64_3.28.9-ltr_grass-saga.7z](https://drive.google.com/file/d/1wwvgiMAeqiw3pDRCRNT3OlMu_-zWWb7L/view?usp=sharing)  
+  - 2023-08-05 [OSGeo4W64_3.28.9-ltr_grass-saga.7z](https://drive.google.com/file/d/1wwvgiMAeqiw3pDRCRNT3OlMu_-zWWb7L/view?usp=sharing)  
 
 ## このリポジトリについて
 
