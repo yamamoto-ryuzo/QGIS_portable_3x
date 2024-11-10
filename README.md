@@ -4,8 +4,10 @@
 　Complementary addition when https://github.com/pigreco/QGIS_portable_3x is not updated.  
 　https://github.com/pigreco/QGIS_portable_3x が更新されない時、補完的に追加します。  
 
-  - 2024-07-24 [QGIS3.38.1.ZIP](https://drive.google.com/file/d/1nPfazBSrF2YUhebiYYUDcHsqxZYd7FBt/view?usp=drive_link)
+#### 　　　　作成したポータブル版は、ランチャーと一緒に以下にて配布。  
+#### 　　　　https://github.com/yamamoto-ryuzo/yr-qgis-launcher
 
+ 
 ## このリポジトリについて
 
  QGIS 3.xをインストールすることなく、動作することのできるポータブル版を作成する方法を説明します。  
